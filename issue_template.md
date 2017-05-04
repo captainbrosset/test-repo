@@ -26,6 +26,7 @@ For debugger issues, please go to https://github.com/devtools-html/debugger.html
 - [ ] The Style Editor panel
 - [ ] The Storage panel
 - [ ] The Performance panel
+- [ ] The Responsive Design Mode
 - [ ] The Memory panel
 - [ ] The DOM panel
 - [ ] The JSON response viewer
@@ -34,6 +35,7 @@ For debugger issues, please go to https://github.com/devtools-html/debugger.html
 - [ ] The Canvas debugger panel
 - [ ] Scratchpad
 - [ ] The Developer Toolbar
+- [ ] The about:debugging page
 - [ ] DevTools in general
 
 ## Steps to reproduce the issue
